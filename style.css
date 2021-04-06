@@ -4,21 +4,21 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.aaa {
+.eisenhower-main {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.aaa img {
+.eisenhower-main img {
     width: 100%;
 }
-.aaa .more-inf {
+.eisenhower-main .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.eisenhower-main { text-align: center;
 }
 }
 .centered-main-page-element {
